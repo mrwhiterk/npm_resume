@@ -1,0 +1,19 @@
+{
+  "name": "Ryan White",
+  "website": "https://mrwhiterk.github.io/",
+  "linkedin": "https://www.linkedin.com/in/ryan-white-32156859/",
+  "github": "mrwhiterk",
+  "email": "mrwhiterk@gmail.com",
+  "resume": "./assets/resume_Ryan_White.pdf",
+  "proficientTechnologies": [
+    "Javascript",
+    "React",
+    "Angular",
+    "Node",
+    "Express",
+    "Mongodb",
+    "PostgreSQL",
+    "Python",
+    "Wordpress"
+  ]
+}
